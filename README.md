@@ -81,7 +81,7 @@ Hallazgos:
   <i><b>Figura 3:</b> Distribución de abandono según si es Cliente de 65 y Servicios.</i>
 </p>
 
-## 📝 Conclusión del Personal:
+## 📝 Conclusión Personal:
 
 A modo de cierre personal, este proyecto demuestra que el Análisis de Datos no se trata simplemente de crear visualizaciones estéticas, sino de traducir filas y columnas.
 
